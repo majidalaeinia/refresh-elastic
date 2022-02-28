@@ -1,4 +1,4 @@
-# RefreshElastic
+# Refresh Elastic
 
 You can use this package to refresh elastic indices (delete the index and make the index again with its corresponding mapping).  
 Inspired by [Laravel RefreshDatabase](https://github.com/guiwoda/laravel-framework/blob/master/src/Illuminate/Foundation/Testing/RefreshDatabase.php). 
