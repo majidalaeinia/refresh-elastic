@@ -1,6 +1,6 @@
 {
     "name": "majidalaeinia/refresh-elastic",
-    "description": "Refresh Elasticsearch indices(truncate and make them again based on their mappings) for your tests.",
+    "description": "Refresh Elasticsearch indices for your tests (delete the indices and index them again based on their mappings if available).",
     "license": "MIT",
     "authors": [
         {
